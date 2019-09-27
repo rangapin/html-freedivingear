@@ -1,0 +1,13 @@
+* {
+  background-color: cyan;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-img-top {
+  width: 50%;
+  height: 300px;
+}
